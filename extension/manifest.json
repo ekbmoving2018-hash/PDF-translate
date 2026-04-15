@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "PDF Translate",
+  "description": "Translate PDF files via OpenAI API.",
+  "version": "0.1.0",
+  "action": {
+    "default_title": "PDF Translate",
+    "default_popup": "index.html"
+  },
+  "permissions": []
+}
